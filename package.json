@@ -9,7 +9,7 @@
     "watch:sass": "nodemon -x 'npm run sass'"
   },
   "dependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.12.1"
   }
 }
